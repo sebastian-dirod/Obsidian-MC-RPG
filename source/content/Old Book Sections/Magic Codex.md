@@ -1,0 +1,1 @@
+> Spell by Essence (What) & Actions (Verbs) & Gestures (Shapes)

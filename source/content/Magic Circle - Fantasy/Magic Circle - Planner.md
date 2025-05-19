@@ -1,0 +1,793 @@
+- [ ] Introduction
+	- [ ] What is an RPG?
+	- [ ] What is Magic Circle?
+	- [ ] How to play Magic Circle
+		- [ ] Ways of Playing
+			- [ ] Light Mode (Bare bones mode)
+			- [ ] Cooperative Design Mode (Everything Mode)
+			- [ ] Brief Game Replays (Replay of Light and Cooperative Design)
+			- [ ] The Spectrum of Play (Pick and Choose Mode)
+		- [ ] Getting Started
+			- [ ] What you need to play
+				- [ ] Players
+				- [ ] Time
+				- [ ] Dice
+				- [ ] Rules
+				- [ ] Sheets
+			- [ ] Setting up the game
+				- [ ] Setting, Themes & Boundaries
+				- [ ] The Party & The Group Arc (General what they are)
+				- [ ] Characters (Where to find the info to make one)
+			- [ ] Playing the game
+				- [ ] As an Actor
+					- [ ] What is an Actor & what is a Character?
+						- [ ] Actor and Character´s Knowledge
+						- [ ] Actor's Moves and Character´s Actions
+					- [ ] Role-play First, Dice Second
+				- [ ] As a Narrator
+					- [ ] What is a Narrator?
+					- [ ] Narrator and Actor´s Knowledge (And levels of difference to make it a flatter or more hierarchical game)
+					- [ ] The Camera & The Spotlight (managing the table)
+					- [ ] Tying the story together (You give the base but then you react to actor´s decisions)
+					- [ ] Calling Rules & Rolls (Narrator as arbiter and manager of the story and the table, but not THE writer)
+	- [ ] Core Principles
+		- [ ] Play in good will
+		- [ ] Play to tell a story
+		- [ ] Play characters that grow
+		- [ ] Play in collaboration (collaborative design)
+
+- [ ] Core Rules
+	- [ ] Book Conventions (What is in bold, in italic, symbols, paging format)
+	- [ ] Character Sheet
+		- [ ] Character Sheet
+		- [ ] Pre-made Characters (Examples)
+			- [ ] Rank 0 - 
+			- [ ] Rank 1 - 
+			- [ ] Rank 2 - 
+			- [ ] Rank 3 - 
+			- [ ] Rank 4 - 
+			- [ ] Rank 5 - 
+	- [ ] Rules Conventions
+		- [ ] Specific Beats General
+			- [ ] Rule < Skill < Action < Feat < Role-play Ruling
+		- [ ] Role-play First, Dice Second
+		- [ ] Always Round Up
+		- [ ] Roll To Beat
+	- [ ] Moves
+		- [ ] What is a Move?
+		- [ ] Story Points & Suspense Points
+		- [ ] Player Moves
+			- [ ] Decorate - For Free
+			- [ ] Detail - Give Story Points
+			- [ ] Entangle - Get Story Points
+			- [ ] Debt/Push Oneself/Strain - Give Suspense
+		- [ ] Narrator-Only Moves
+			- [ ] Plot Moves
+				- [ ] Set Up Scene
+					- [ ] Sets scene & make players react and describe first move
+				- [ ] Question/Enquire
+					- [ ] Question the players. Triggers questions or doubts on characters. Player says if accepts or not and role-play it if yes
+				- [ ] Spotlight
+					- [ ] Explicits who´s turn is in a role-play moment
+				- [ ] Foreshadow
+					- [ ] Triggers vigilance or points at detail important for later or triggers Timer Pool
+				- [ ] Wrap Up
+					- [ ] Closes Scene, can be use to close the session. Can be a montage roll, or just a clear break between scenes
+			- [ ] Suspense Moves
+				- [ ] Abridge
+					- [ ] solve PCs' problem, but get Suspense to you
+					- [ ] Impact is delayed
+				- [ ] Build Up
+					- [ ] Response to high-tension Set Up Scene.
+					- [ ] Players describe vignette before upcoming action of what they do as reaction, everyone gets a Spark/Story Points.
+				- [ ] Recap
+					- [ ] Summarize prev session or events past
+			- [ ] Impact Moves
+				- [ ] Complicate (Escalate situation, introduce problem, test or challenge, pressure a bond, counter a Character's Action).
+					- [ ] Challenges on the fly
+				- [ ] Force Choice
+					- [ ] Present 2 options, Character can only choose 1, unless they push themself, risking more or receiving damage
+				- [ ] Hit Them Hard
+					- [ ] Direct damage, condition, vex or loss
+				- [ ] Lock In
+					- [ ] Declare something occurs, closing off attempts to change it, unless context changes
+		- [ ] Beginning & Ending Sessions
+			- [ ] Recap > Set Up > ... > Wrap Up & Experience
+	- [ ] Rolling Dice
+		- [ ] Skills & Skill Ranks
+			- [ ] What is a Skill
+			- [ ] What is a Skill Rank
+			- [ ] Skill Lists
+		- [ ] Actions
+			- [ ] Action Points System
+			- [ ] Repeated Action Penalty
+				- [ ] Applied To
+					- [ ] Strike
+					- [ ] Maneuver
+			- [ ] Actions & Specialized Actions
+				- [ ] Actions are available as long as you fulfill the requirements
+				- [ ] Specialized Actions require Feats that Allow you to do such Actions. If they are playing without feats, the ruling goes by the vantage. Does it make sense that a sneaky unathletic rogue tackles an orc? Does it make sense that a merchant character deciphers the writing of an old mage due to their business at the magical school?
+			- [ ] General Actions
+				- [ ] Use Skill
+					- [ ] Communicate --> Communicate With Animal
+				- [ ] Delay
+				- [ ] Ready
+				- [ ] Hold
+				- [ ] Help
+					- [ ] Aid
+				- [ ] Interact
+					- [ ] Grip & Release
+					- [ ] Activate & Deactivate
+					- [ ] Sustain Activation
+					- [ ] Don & Don Off
+				- [ ] Pick Mechanism (Pick Lock)
+					- [ ] Disable Device
+				- [ ] Recall Knowledge
+					- [ ] Decipher Writing
+					- [ ] Study Subject
+				- [ ] Craft
+					- [ ] Repair
+					- [ ] Identify Object
+					- [ ] Create Forgery
+					- [ ] Earn Income
+			- [ ] Exploration Actions
+				- [ ] Point Out
+				- [ ] Sense Direction
+				- [ ] Avert Gaze
+				- [ ] Seek/Track
+				- [ ] Cover Tracks
+				- [ ] First Aid
+					- [ ] Treat (Poison, Disease, Wounds)
+			- [ ] Social Actions
+				- [ ] Sense Motive
+				- [ ] Read Other - Reads Target for Superficial information without the other noticing
+				- [ ] Parley
+					- [ ] Gather Information, Demoralize, Request, Coerce, Lie ? Or Goal of Parley? As in Parley (Demoralizing) or Parley (Coercive) or Parley (Inquisitive)
+				- [ ] Perform
+					- [ ] Make Impression
+					- [ ] Impersonate
+			- [ ] Strike Actions
+				- [ ] Strike
+					- [ ] Called Strike
+					- [ ] Reactive Strike
+						- [ ] Brace --> Reactive Strike on Entering Area
+						- [ ] Slow Down
+							- [ ] Stall
+					- [ ] Lounge
+				- [ ] Sunder & Perforate
+			- [ ] Maneuvers
+				- [ ] Dodge
+				- [ ] Shove
+				- [ ] Push
+				- [ ] Trip
+				- [ ] Set Up (Favor to Next Check against the target)
+					- [ ] Destabilize (Favor until next turn or Target Stand to remove effect)
+				- [ ] Hinder (Snub on Target's  Next Check)
+				- [ ] Grab Edge
+				- [ ] Slide
+				- [ ] Swap
+				- [ ] Grapple
+					- [ ] Drag
+					- [ ] Restrain
+					- [ ] Take Down
+					- [ ] Slam
+					- [ ] Body Block
+				- [ ] Pin
+				- [ ] Escape
+				- [ ] Tackle
+				- [ ] Overrun
+				- [ ] Force Open
+				- [ ] Disarm & Lock
+				- [ ] Taunt
+				- [ ] Feint (Target is Off-Guard)
+					- [ ] Divert (Create a Diversion - Become Hidden to Group)
+				- [ ] Hide
+				- [ ] Sneak
+				- [ ] Steal
+					- [ ] Palm Object
+				- [ ] Conceal Object
+			- [ ] Defensive Actions
+				- [ ] Guard
+				- [ ] Parry
+					- [ ] Deflect
+				- [ ] Raise Shield
+					- [ ] Shield Block
+					- [ ] Protect -> Retarget one to you
+						- [ ] Forbear -> Retarget several to you (area effect)
+					- [ ] Ward -> Divide Damage between you and target
+				- [ ] Take Cover
+			- [ ] Movement Actions
+				- [ ] Stride
+					- [ ] Step
+					- [ ] Tumble Through
+					- [ ] Balance
+					- [ ] Squeeze
+				- [ ] Stand & Drop Prone
+					- [ ] Crawl
+				- [ ] Mount & Dismount
+				- [ ] Jump & Leap
+				- [ ] Climb
+				- [ ] Swim
+				- [ ] Burrow
+				- [ ] Fly
+					- [ ] Arrest Fall
+					- [ ] Flight Maneuver
+		- [ ] Dice Rolls & Dice Pools
+			- [ ] Difficulty & Degrees of Success
+			- [ ] Skill Roll
+			- [ ] Rank Roll
+			- [ ] Diminishing Pool (1 drop + 1D out per degree of success. Like Arrows)
+			- [ ] Dramatic Pool (Drop any lower than X. Like Sickness)
+		- [ ] Modifying Rolls
+			- [ ] Snubs & Favors
+			- [ ] Pushing Rolls
+			- [ ] Teamwork
+				- [ ] Setting Up a Roll
+				- [ ] Assisting a Roll
+				- [ ] Rolling for Group Effort
+	- [ ] Awareness & Vigilance
+		- [ ] Assumed Alertness
+			- [ ] Perception & Observation
+			- [ ] Who Reacts First
+				- [ ] Dramatic Initiative (Goes who makes sense to go first and the Spotlight is passed as people want. Narrator can Spotlight people)
+		- [ ] Grades of Knowledge
+			- [ ] Hidden (Can Strike)
+			- [ ] Hinted
+			- [ ] Revealed
+			- [ ] Known / Fact
+	- [ ] Damage & Recovery
+		- [ ] Rest & Downtime
+			- [ ] Rest
+			- [ ] Light Rest
+			- [ ] Having a Breather
+		- [ ] Death & Dying
+			- [ ] Getting Hurt
+				- [ ] Being Incapacitated
+					- [ ] Dropping to 0 HP -> Incapacitated
+					- [ ] Stabilizing Someone -> First Aid
+					- [ ] If Damage = Current + Total Health, Instant Death
+					- [ ] If Damage > Total Health, Lingering Injury + Stress (On Death Door)
+					- [ ] Death Rolls --> D6 flat roll 1-3 Failure, 4-6 Success
+					- [ ] Dying Condition -> At X, Character dies
+				- [ ] Lingering Wounds
+					- [ ] Only if Player accepts
+					- [ ] Decide Target Area and Effect
+					- [ ] Decide Lasting Time of Effect (If recoverable or not, how, and in which time)
+			- [ ] Vex & Stress
+				- [ ] Vex
+					- [ ] Fight
+					- [ ] Flight
+					- [ ] Fawn
+					- [ ] Freeze
+					- [ ] Freak Out
+				- [ ] Lingering Stress/Mental Strain
+					- [ ] Effects from long-lasting stress
+	- [ ] Character Progression
+		- [ ] Story Arcs & Experience
+		- [ ] Buying Skills & Feats
+	- [ ] Game Replay with Designer's Commentary
+
+- [ ] Starting a Campaign
+	- [ ] Session Zero
+		- [ ] Establish Intentions
+		- [ ] Safety & Boundaries
+	- [ ] The Stage
+		- [ ] Establishing the Setting
+		- [ ] Choosing Themes Collaboratively
+	- [ ] Designing Characters
+		- [ ] Vantage
+			- [ ] Background & Bonds
+			- [ ] Desires & Repulsions
+			- [ ] Traits and Physical Features
+		- [ ] Story Arcs
+	- [ ] The Campaign
+		- [ ] Factions
+		- [ ] Campaign Arcs
+	- [ ] Starting the Adventure
+		- [ ] Characters Review
+		- [ ] Intro Montage
+
+- [ ] Inventory
+	- [ ] Carrying Capacity
+	- [ ] Making Inventory (Inventory Systems)
+		- [ ] Inventory as Carrying Capacity
+		- [ ] Storage System
+		- [ ] Encumbrance System
+	- [ ] In-Adventure Loadout
+		- [ ] How it Works (Story Points to invoke the items)
+		- [ ] Loadouts
+			- [ ] Light (Items & Repercussions)
+			- [ ] Medium (Items & Repercussions)
+			- [ ] Heavy (Items & Repercussions)
+		- [ ] Inventory & Story Points
+	- [ ] Usage Tracking
+		- [ ] Item Units
+		- [ ] Resource Pools
+		- [ ] Hardness Pools
+	- [ ] Wealth
+		- [ ] Tracking Wealth (Wealth System)
+		- [ ] Purchasing Stuff
+		- [ ] Gears & Tools (& Containers, that is gear)
+		- [ ] Transport & Spaces
+		- [ ] Earning an Income
+			- [ ] Income as Service
+			- [ ] Income as Craft
+
+- [ ] Crafting & Building
+	- [ ] What to Create
+		- [ ] Consumable
+		- [ ] Device/Tool
+		- [ ] Object
+		- [ ] Place
+	- [ ] What is Needed (Recipe, Craft Skill, Components, Time)
+		- [ ] Recipe/Blueprints -> defines Craft Skill, Components & Time
+		- [ ] Skill -> With minimum Rank
+		- [ ] Components -> Foraging, Hunting, Buying
+		- [ ] Time -> Shorten by Group Effort or Hirelings
+	- [ ] How To Create
+		- [ ] Crafting Skills
+			- [ ] Crafts
+				- [ ] (Crafting)
+				- [ ] (Crafting)
+				- [ ] (Crafting)
+				- [ ] (Crafting) -> Mainly Craft objects (Can be Mixed)
+				- [ ] (Building) -> Mainly Craft Spaces (Can be Mixed)
+				- [ ] (Building)
+			- [ ] Learning New Crafts
+		- [ ] Creating Stuff
+			- [ ] Crafting Pools
+			- [ ] Building Pools (Linked Crafting Pools, Can be done by multiple people)
+		- [ ] Crafting & Story Points
+	- [ ] How To Upgrade
+		- [ ] Upgrading Objects
+		- [ ] Upgrading Places
+	- [ ] Recipes
+		- [ ] (Crafting)
+		- [ ] (Crafting)
+		- [ ] (Crafting)
+		- [ ] (Crafting)
+		- [ ] (Crafting)
+		- [ ] (Crafting)
+		- [ ] (Crafting)
+		- [ ] (Crafting)
+	- [ ] Blueprints (Rooms - Require multiple crafts for progress)
+		- [ ] (Building)
+		- [ ] (Building)
+		- [ ] (Building)
+		- [ ] (Building)
+		- [ ] (Building)
+		- [ ] (Building)
+		- [ ] (Building)
+		- [ ] (Building)
+
+- [ ] Research & Investigation
+	- [ ] Acquiring Knowledge (Roll to Learn or to Observe. Difference between sitting and reading, getting in a place and deducing stuff and sitting to reflect to create more knowledge)
+		- [ ] Researching a Subject
+			- [ ] To Know or Not To Know (One roll research - Recall Knowledge)
+			- [ ] Knowledge Pools
+				- [ ] Roll Your Reasoning to reduce Knowledge Dramatic Pool
+			- [ ] Learning Lore & Languages
+				- [ ] Learning on your own
+				- [ ] Learning from someone
+		- [ ] Investigating Someone Somewhere (Research Linked Pools) (podriamos hacer que son pequeñas pools que se gastan y te abren puertas hacia nuevo conocimiento, por lo que investigar es conectar conocimientos)
+			- [ ] Investigating The Scene (What Happen There)
+			- [ ] Investigating Someone (Who Did What)
+			- [ ] Investigation Pools (Awareness-Observe)
+			- [ ] Connecting the Dots
+				- [ ] Knowledge & Deduction (Burning Cards to create new ones)
+				- [ ] Using Story Points to Acquire Knowledge (Activates R&I Pools)
+	- [ ] Knowledge Pages
+		- [ ] What it is
+		- [ ] What is has
+			- [ ] Statement
+			- [ ] Information
+			- [ ] Knowledge Bonus (+Exploration Points, +Bonus to Roll, +Bonus to Parley...)
+			- [ ] Knowledge Status
+				- [ ] Unknown
+				- [ ] Known
+				- [ ] Shared
+					- [ ] Possibility or Fact
+		- [ ] Invoking a Page (To acquire bonuses to any roll)
+	- [ ] Running Knowledge Intrigue
+		- [ ] KnPages can be False or True, and ways to run an intrigue adventure based on knowledge, learning and clues
+
+- [ ] Exploration
+	- [ ] Exploring with the Senses
+		- [ ] Sight
+			- [ ] Light
+				- [ ] Bright Light
+				- [ ] Dim Light
+				- [ ] Darkness
+				- [ ] Total Darkness
+				- [ ] Invisibility
+			- [ ] Diverse Sight
+				- [ ] Dark Vision
+				- [ ] True Sight
+		- [ ] Hearing
+			- [ ] Sound & Mediums
+			- [ ] Echolocation
+			- [ ] Signal Jamming
+		- [ ] Chemical Senses
+			- [ ] Smell & Taste
+			- [ ] Chemical Communication
+		- [ ] Other Senses
+			- [ ] Tremor Sense
+			- [ ] Electro-reception
+			- [ ] Magneto-reception
+			- [ ] Keen Senses
+		- [ ] Concealing, Hiding & Detection
+			- [ ] Non-Detection
+			- [ ] Concealment
+			- [ ] Illusions
+			- [ ] Group Detection
+	- [ ] Distance & Movement
+		- [ ] Average Speed (per Round, Day, Week)
+	- [ ] Terrain & Weather
+		- [ ] Difficult Terrain
+		- [ ] Adverse Climate
+	- [ ] Survival
+		- [ ] Basic Needs
+			- [ ] Foraging & Hunting
+				- [ ] Hunger
+				- [ ] Dehydration
+			- [ ] Dwelling Outdoors
+			- [ ] Breath & Suffocation
+		- [ ] Sickness & Fatigue
+			- [ ] If you want to use some and not all, do it. Do not use everything if you
+			- [ ] Fatigue/Exhaustion
+			- [ ] Sickness
+				- [ ] Heatstroke
+				- [ ] Hypothermia
+				- [ ] Plagues
+		- [ ] Travelling Roles & Activities
+			- [ ] (Role + Activity + Roll - Marching)
+			- [ ] (Role + Activity + Roll - Orientation)
+			- [ ] (Role + Activity + Roll - Camping)
+			- [ ] (Role + Activity + Roll - Standing Guard)
+		- [ ] Survival & Story Points
+	- [ ] Exploring Beyond Walls
+		- [ ] Pace & Orientation
+		- [ ] Looking for a specific Place
+			- [ ] Level of Knowledge of Location
+				- [ ] Learnt About - Knowledge
+					- [ ] Possibility or Fact
+				- [ ] Heared Of - Rumor
+					- [ ] Possibility or Fact
+				- [ ] Being There - Fact
+		- [ ] Wandering - Expanding Map (KPs & EPs to design map)
+	- [ ] Exploring Sites & Settlements
+		- [ ] Exploring The Known
+			- [ ] Investigating a Settlement
+			- [ ] Expanding the Map (KPs & EPs)
+		- [ ] Exploring The Unknown (RPG Backpack)
+			- [ ] It being a castle or a dungeon or a kobold nest
+			- [ ] Movement Between Rooms
+				- [ ] Unexplored
+				- [ ] Explored
+				- [ ] Bigger Room --> +1 Turn required per Size
+			- [ ] Exploring Activities
+				- [ ] Investigate Room
+				- [ ] Check for Traps
+				- [ ] Scout
+			- [ ] Tracking Time
+				- [ ] Hours vs Light Sources vs Minutes vs Combat Turns
+		- [ ] Exploring Through Time
+			- [ ] Layering Exploration by Time of the Day or Seasons
+
+- [ ] People & Social Interaction
+	- [ ] Communities & Institutions
+		- [ ] Community Background
+			- [ ] Initial Skills
+			- [ ] Equipment & Wealth
+		- [ ] Gifts, Debts & Favors
+	- [ ] Relationships
+		- [ ] Shared Background
+			- [ ] Shared Initial Skills
+			- [ ] Shared Story Points
+		- [ ] Bonds & Obligations
+			- [ ] Bonds
+			- [ ] Obligations
+		- [ ] Getting Involved
+			- [ ] Building Up NPCs with Narrator
+			- [ ] Interactions give Story Points to both Player and GM
+			- [ ] Social Interaction & Story Points
+	- [ ] Friends & Foes
+		- [ ] Predisposition
+			- [ ] Rolling for Predisposition
+			- [ ] Helpful
+			- [ ] Friendly
+			- [ ] Neutral
+			- [ ] Unfriendly
+			- [ ] Hostile
+		- [ ] Morale
+			- [ ] +1 per antagonist, +1 per antagonist rank
+			- [ ] When depleted --> Vex
+	- [ ] Making your own Faction
+		- [ ] Faction Arc
+			- [ ] Faction Pools & Rolls
+		- [ ] Headquarters
+		- [ ] Followers & Hirelings
+	- [ ] Intrigue & Conspiration
+		- [ ] Parley & Reading People
+		- [ ] Connections
+			- [ ] Influence
+			- [ ] Pulling Strings
+		- [ ] Conspirations
+			- [ ] Uncovering a Conspiration
+			- [ ] Making a Conspiration
+
+- [ ] Combat
+	- [ ] Fast Combat
+		- [ ] Classic Initiative + Rolling to do any Action (As per the rest of the system, you state what you want to do, then the Narrator chooses a difficulty. You roll and see the outcome).
+		- [ ] Combat Montage Roll (Skill Roll to decide winner).
+		- [ ] Otherwise, for a much grittier way of playing, check the following rules.
+	- [ ] Turns & Rounds
+		- [ ] What you can do in your turn
+			- [ ] 3 Action Points, 1 Interrupt Point
+			- [ ] Interrupt Points can only be use when you do not have the Spotlight, to *Rob The Spotlight* with an Interrupt Action.
+			- [ ] During the game you could get more IPs or change APs for IPs.
+			- [ ] *Hold* Action lets you change APs for IPs in your turn
+			- [ ] Once everyone has done their actions, another round starts.
+		- [ ] Initiative
+			- [ ] Classic Initiative
+			- [ ] Pop Corn Initiative
+			- [ ] Free-form Initiative
+				- [ ] You get the Spotlight passed when someone *Pass Spotlight*, having used their APs or not. When you are in the Spotlight, you can use APs to act, then pass the Spotlight, then get the spotlight again if you still have APs. Round ends when everyone has spent their APs and Antagonists have spent all their Dice.
+		- [ ] Surprise Round
+			- [ ] Who gets surprised can not act until the rest that are not surprised acted. Then the chosen system starts as intended
+	- [ ] Hitting a Target
+		- [ ] Targeting
+			- [ ] In Reach
+			- [ ] In Range
+		- [ ] Rolling to Hit
+			- [ ] Weapon Mastery - In Reach
+			- [ ] Maneuvers - In Reach
+			- [ ] Aim - In Reach
+		- [ ] Hit & Touch
+		- [ ] Grazing / Reach
+		- [ ] Weakness & Vulnerability
+	- [ ] Avoiding a Hit
+		- [ ] Evade & Defense - Coordination + DmgRed
+		- [ ] Warding Off - Withstand
+		- [ ] Resistance & Invulnerability
+	- [ ] Combat Resolution
+		- [ ] Capture
+		- [ ] Convince
+			- [ ] Convince Crowd
+		- [ ] Drive Off
+		- [ ] Pursue
+		- [ ] Flee
+		- [ ] Trick / Riddle
+		- [ ] Kill
+		- [ ] Other Resolutions
+	- [ ] Actions & Maneuvers
+		- [ ] Movement Actions
+		- [ ] Combat Actions
+		- [ ] Maneuver Actions
+		- [ ] Forced Movement
+	- [ ] Conditions
+		- [ ] Senses
+			- [ ] Blinded - No Sight for Awareness. All terrain is Difficult Terrain. It overrides dazzled.
+			- [ ] Deafened
+			- [ ] Saturated
+		- [ ] Mobility
+			- [ ] Slowed
+			- [ ] Grabbed
+			- [ ] Restrained
+			- [ ] Pinned
+			- [ ] Immobilized
+		- [ ] Constitution
+			- [ ] Exhausted
+			- [ ] Paralyzed
+			- [ ] Poisoned
+			- [ ] Wounded
+		- [ ] Vex
+			- [ ] Frightened
+			- [ ] Charmed
+		- [ ] Detection
+			- [ ] Unnoticed
+			- [ ] Undetected
+			- [ ] Observed
+			- [ ] Hidden
+			- [ ] Invisible
+
+		- [ ] Helpless
+		- [ ] Weakened
+		- [ ] Dazed
+		- [ ] Unconcious
+		- [ ] Marked
+		- [ ] Prone
+		- [ ] Dying
+		- [ ] Petrified
+		- [ ] Dominated
+		- [ ] Surprised
+		- [ ] Stun
+		- [ ] Concealed
+		- [ ] Flanked
+		- [ ] Removed
+		- [ ] Incapacitated
+		- [ ] Doomed
+		- [ ] 
+		- [ ] Broken
+		- [ ] Clumsy
+		- [ ] 
+		- [ ] Confused
+		- [ ] Controlled
+		- [ ] Dazzled
+		- [ ] Drained
+		- [ ] Encumbered
+		- [ ] Enfeebled
+		- [ ] Fascinated
+		- [ ] Off-guard/Flat-footed/
+		- [ ] Fleeing
+		- [ ] Persistent Damage
+		- [ ] Quickened
+		- [ ] Sickened
+		- [ ] Stupefied
+	- [ ] Equipment
+		- [ ] Weapons
+			- [ ] Traits
+			- [ ] Descriptions
+			- [ ] Melee
+			- [ ] Ranged
+			- [ ] Composite
+			- [ ] Customizing Weapons
+		- [ ] Armour & Shields
+			- [ ] Light Armour
+			- [ ] Medium Armour
+			- [ ] Heavy Armour
+			- [ ] Shields
+			- [ ] Customizing Armour & Shields
+
+- [ ] Arcana
+	- [ ] Accessing the Arcana
+		- [ ] Being an Arcanist
+			- [ ] Ways to access magic and spells, secondary stuff, effects to casting
+			- [ ] Access to Lore (Arcana)
+			- [ ] Access to Craft (Arcana)
+		- [ ] Arcanists
+			- [ ] Conduit
+				- [ ] Cleric
+				- [ ] Warlock
+				- [ ] Druid
+			- [ ] Source
+				- [ ] Wizard
+				- [ ] Sorcerer
+				- [ ] Paladin
+			- [ ] Agent
+				- [ ] Artificer
+				- [ ] Witch
+				- [ ] Bard
+	- [ ] Casting Spells
+		- [ ] Spell Casting
+			- [ ] Requires Spell Schemas
+			- [ ] Use Mana to Cast and That´s it
+				- [ ] Mana Cost in the design is +2
+			- [ ] Max recipes prepared / readied. Can be changed in a breather or short rest (a breather lets you change 1).
+			- [ ] Adaptable Casting
+				- [ ] Feat to Adapt Spell Schemas in the moment 
+			- [ ] Wild Casting
+				- [ ] Can cast without Schemas, design in the moment
+				- [ ] Cast without the over cost of Spell Design
+				- [ ] Has probability to Fail
+				- [ ] If you are Sorcerer, you can choose to Wild Surge (It reduces Range of Wild Surge by 1? Or just Wild Surge instead of failing)
+				- [ ] Fail to Cast/Wild Surge = Spell Rank +1
+		- [ ] Rituals
+	- [ ] Learning Spells
+		- [ ] Parts of a Spell
+			- [ ] Components
+				- [ ] Verbal
+				- [ ] Somatic
+				- [ ] Material
+				- [ ] Mana
+				- [ ] Time
+				- [ ] Space
+				- [ ] Collaborative Casting
+			- [ ] Essence
+				- [ ] Elemental
+					- [ ] Fire
+					- [ ] Water
+					- [ ] Earth
+					- [ ] Wind
+					- [ ] Quintessence
+				- [ ] Organic
+					- [ ] Being
+						- [ ] Fauna
+							- [ ] Same - Eadem
+							- [ ] Other - Alius
+						- [ ] Flora - Herbam
+						- [ ] Fungi
+						- [ ] Protista
+						- [ ] Mater - Warforged, or blades, or anything "non-living"
+					- [ ] Will / Energy / Qi
+				- [ ] Mental
+					- [ ] Psionic - Mentem
+					- [ ] Illusion - Imaginem
+				- [ ] Forces of the Universe
+					- [ ] Physica (Gravity, Space, Time)
+			- [ ] Method
+				- [ ] Creo - Creation
+				- [ ] Muto - Transmutation
+				- [ ] Perdo - Destruction
+				- [ ] Rego - Control & Manipulation
+				- [ ] Intellego - Perception & Knowledge
+			- [ ] Gesture
+		- [ ] Identify Spell
+		- [ ] Practice Spell
+		- [ ] Design Spell
+			- [ ] Choose Essence & Method - Establish Mana Cost
+				- [ ] Defines Effect & Rank
+				- [ ] Defines Base Cost
+			- [ ] Choose Gesture - Increase Mana Cost
+				- [ ] Defines Range & Target or Area
+				- [ ] Defines Additional Cost
+			- [ ] Choose Components - Reduce Cost in Mana
+				- [ ] Verbal & Somatic are the base
+				- [ ] Material Reduces, if destroyed, reduces by lot
+				- [ ] +Time (+APs, Rounds, Minutes, Hours, Days)
+				- [ ] Space (Spacial Touchstone)
+				- [ ] More Casters needed, cost distributed between casters
+	- [ ] Protecting from Arcana
+		- [ ] Duel Arcana
+		- [ ] Interrupt Arcana
+		- [ ] Dispel Arcana
+		- [ ] Revert Arcana
+	- [ ] Arcane Actions
+		- [ ] Cast Spell
+		- [ ] Sustain & Dismiss Spell
+		- [ ] Identify Spell
+		- [ ] Practice Spell
+		- [ ] Borrow Spell
+		- [ ] Craft Arcana
+			- [ ] Repair Arcana
+			- [ ] Modify Arcana
+			- [ ] Upgrade Arcana
+
+			- [ ] Methods / Acts
+
+			- [ ] Gestures - Defines Target, Area, Distance
+				- [ ] Basic
+					- [ ] Dot
+					- [ ] Target
+					- [ ] Bolt
+					- [ ] Aura
+				- [ ] Advanced
+					- [ ] Line (From Dot)
+					- [ ] Chain (From Target)
+					- [ ] Ray (From Bolt)
+					- [ ] Expansion (From Aura)
+				- [ ] Composed
+					- [ ] Circle/Square (Area) (Dot+Line)
+					- [ ] Angle (Ray+Line)
+					- [ ] Blast (Expansion+Bolt)
+					- [ ] Attraction (Expansion+Dot)
+				- [ ] Complex
+					- [ ] Cube/Bubble (Area 3D) - Area x2
+					- [ ] Cone - Angle x2
+					- [ ] Cylinder - Ray+Area
+					- [ ] Vortex - Attraction x2
+			- [ ] Mana Cost
+	- [ ] Creating Spells
+		- [ ] Learning Essences
+		- [ ] Learning Methods
+		- [ ] Learning Gestures
+		- [ ] Creating a Spell
+	- [ ] Protecting From Arcana
+		- [ ] Duel - Cast Spell vs Spell
+		- [ ] Interrupt - Stop Casting Spell
+		- [ ] Dispel - Stop Spell Effect
+		- [ ] Revert - Undo Spell Effect
+	- [ ] Crafting Arcana Objects
+		- [ ] Craft Skill + Lore (Arcana)
+		- [ ] Arcana Craft Lists
+			- [ ] Craft 1
+			- [ ] Craft 2
+			- [ ] Craft 3
+			- [ ] Craft 4
+
+- [ ] Character Options
+
+- [ ] Narrator Toolkit
+
+- [ ] Appendixes
+

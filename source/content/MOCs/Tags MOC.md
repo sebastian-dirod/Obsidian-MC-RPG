@@ -1,0 +1,123 @@
+### Class Tags
+- [[Martial Artist]]
+- [[Fighter]]
+	- [[Dueling]]
+	- [[Guardian]]
+	- [[Commander]]
+	- [[Dual Wielder]]
+- [[Investigator]]
+- [[Rogue]]
+	- [[Ruffian]]
+	- [[Mastermind]]
+	- [[Scoundrel]]
+	- [[Thief]]
+- [[Ranger]]
+- [[Barbarian]]
+- [[Swashbuckler]]
+- [[Alchemist]]
+- [[Monk]]
+
+### Game Tags
+##### Game Pillars Tags
+- [[Combat]]
+- [[Exploration]]
+- [[Social Interaction]]
+
+##### [[Skill Families]]
+- [[Combat Skill]]
+- [[Social Skill]]
+- [[Exploration Skill]]
+- [[Physical Skill]]
+- [[Knowledge Skill]]
+	- [[Crafting Skill]]
+	- [[Lore Skill]]
+	- [[Language Skill]]
+
+##### [[Weapon Groups]]
+- [[Simple Melee Weapon]]
+	- [[Swift]]
+	- [[Short]]
+	- [[Hand]]
+	- [[Thrown]]
+	- [[Chain]]
+- [[Complex Melee Weapon]]
+	- [[Versatile]]
+	- [[Two Handed]]
+	- [[Massive]]
+	- [[Polearm]]
+- [[Simple Ranged Weapon]]
+	- [[Sling]]
+	- [[Volley]]
+	- [[Ballistic]]
+- [[Complex Ranged Weapon]]
+	- [[Firearm]]
+	- [[Turret]]
+	- [[Composite]]
+
+##### Methods Tags
+- [[Panache]]
+- [[Rage]]
+- [[Arcane]]
+	- [[Spells]]
+	- [[Antimagic]]
+- [[Qi]]
+
+### Action Cost Tags
+(1, 2, 3, Free, Activity, Feature (Does not require activation))
+- [[Feature]] - Passive effect or improvement of another action or target
+- [[Free Action]]
+- [[Reaction]]
+- [[Action 1]]
+- [[Action 2]]
+- [[Action 3]]
+- [[Activity]] - Variable duration, longer than a round
+
+### Feat Tags
+##### Combat
+- [[Weapon]]
+- [[Heavy Weaponry]]
+- [[Light Weaponry]]
+- [[Thrown Weaponry]]
+- [[Dual Combat]]
+- [[Ranged Combat]]
+- [[Reach]]
+- [[Armor]]
+- [[Shield]]
+- [[Resist]]
+- [[Pierce Resistance]]
+- [[Sneak Attack]] // [[Precision Damage]]
+- [[Tactic]]
+- [[Maneuvers]]
+- [[Trickery]]
+	- [[Taunt]]
+- [[Stance]]
+- [[Multiple Target]]
+
+##### Exploration
+- [[Hunt]]
+- [[Activity]]
+- [[Sundering]] - Breaking Objects
+- [[Mobility]]
+	- [[Fly]]
+- [[Terrain]]
+	- [[Cover]]
+- [[Animal Companion]]
+
+##### Social Interaction
+- [[Communication]]
+- [[Knowledge]]
+- [[Investigation]]
+- [[Command]]
+
+##### General Tags
+- [[Skill]]
+- [[Craft]]
+	- [[Recipe]]
+	- [[Alchemy]]
+- [[Concentration]]
+- [[Repeated Action Penalty]]
+- [[Action Economy]]
+- [[Party]]
+- [[Planning]]
+- [[Bulk]]
+- [[Size]]

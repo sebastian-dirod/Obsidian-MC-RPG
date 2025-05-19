@@ -1,0 +1,5 @@
+- [[Bravery]] - **[[Rank 1]]** [[EXP 1]]
+- [[Skill Rank Improvement]] - **[[Rank 1]]** [[EXP 1]]
+- [[Expert Skill Rank]] - **[[Rank 1]]** [[EXP 2]]
+- [[Resounding Bravery]] - **[[Rank 2]]** [[EXP 2]] - Requires [[Bravery]]
+- [[Determination]] - **[[Rank 4]]** [[EXP 1]]

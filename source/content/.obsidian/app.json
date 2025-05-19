@@ -1,1 +1,6 @@
-{}
+{
+  "livePreview": false,
+  "showInlineTitle": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}
